@@ -29,7 +29,7 @@ Fully Documented cybersecurity lab enviroment built for experimentation and simu
  - Automate reports and alerts of attacks
  - A simulation of Red vs Blue team
 
-   This is a personal project to learn feel free to fork or use it as a template for your own learning. If you spot any error or want to give any suggestion, feel free to open an issue.
+This is a personal project to learn feel free to fork or use it as a template for your own learning. If you spot any error or want to give any suggestion, feel free to open an issue.
 
 ### "best way to learn is to break and then fix"
 
